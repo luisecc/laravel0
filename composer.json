@@ -1,0 +1,13 @@
+{
+    "name": "luisecc/php-laravel",
+    "description": "Prueba laravel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luisecc",
+            "email": "lcarranza.2890@gmail.com"
+        }
+    ],
+    "require": {}
+}
